@@ -1,4 +1,4 @@
-age = 20
+let age = 20
 
 if (age >= 18)
   console.log("Adult")
@@ -9,7 +9,7 @@ else{
 console.log("--------------------------------\n")
 // ----------------------------------------------------------------------------------------------------------------------
 
-num = 88
+let num = 88
 
 if (num > 100 || num < 0) console.log("Not Valid")
 else if (num < 35) console.log("Failed")

@@ -9,8 +9,8 @@ console.log(a)
 console.log("--------------------------------\n")
 // ----------------------------------------------------------------------------------------------------------------------
 
-const b = 4
-console.log(a)
+const B = 4
+console.log(B)
 
 // const b = 6 // --> this will give error
-console.log(a)
+console.log(B)

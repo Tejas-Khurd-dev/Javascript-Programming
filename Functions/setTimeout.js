@@ -1,4 +1,4 @@
-// setTimeout(code, delaySeconds*1000)
+// setTimeout(function, delaySeconds*1000)
 
 function hello(){
   console.log("hello")

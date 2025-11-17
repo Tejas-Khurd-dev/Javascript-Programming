@@ -1,7 +1,7 @@
 const nums = [5, 3, 1, 4, 2];
 
 // sort()
-const asc = nums.sort();
+const asc = nums.sort(); // -> will not work for negative numbers
 console.log("sort asc:", asc, "\n");
 
 // reverse()
